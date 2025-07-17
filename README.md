@@ -1,9 +1,9 @@
 <h1 align="center">
-  🌈✨ John — Elite Blockchain Coder & Bot Developer 🚀⚙️
+  ⚡ John — Elite Blockchain Coder & Bot Developer ⚡
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7971E&vCenter=true&width=800&height=50&lines=🚀+Solana+%7C+Ethereum+Bot+Architect;👾+Trading+Automation+Specialist;💣+Cloning+Coins+%7C+Sniping+Launches+%7C+Farming+Volume;⚡+Smart.+Fast.+Unstoppable." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FFA2&center=true&vCenter=true&width=1000&lines=🚀+Solana+%7C+Ethereum+Bot+Architect;👾+Volume+Farms+%7C+Snipers+%7C+Auto+Liquidity;🔥+Cloning+Coins+%7C+Freeze+Mechanics+%7C+Terminal+Control;🏆+Smart.+Stealth.+Profitable." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,31 +12,29 @@
 
 ---
 
-## 🎯 Who Am I?
+## 🧠 About Me
 
-> I’m **John**, a code-obsessed degen engineering next-level bots for **Solana** & **Ethereum**.  
-> From launching tokens to flipping volume to rug switches — I build **the tools that move markets**.
+I’m **John**, the degen dev behind bots that dominate chains. I build **automated trading weapons** for **Solana** and **Ethereum**.  
+From cloning tokens to farming volume with 100+ wallets, I run my code like a cartel — **efficient, stealthy, unstoppable**.
 
-💡 What I do:
-- Clone tokens instantly (logo, name, ticker — all of it).
-- Simulate massive volume using wallet farms.
-- Auto-add/remove liquidity like a ghost.
-- Rug-proof freeze bots & anti-sell shields.
-- Sell entire bags in a flash or drip slowly like a sniper.
+- 🔁 Fully automated: crash-proof bots with auto-restart
+- 💣 Rug-switch tools: freeze tokens, lock trading, ghost liquidity
+- 🔥 High-frequency swaps with Jito bundling & MEV awareness
+- 🛠 Terminal-based interfaces — coming soon to Telegram too
 
 ---
 
-## 🚀 Bot Arsenal
+## ⚔️ What I Build
 
-| Chain     | Weapons I Build 🔥                                                                 |
-|-----------|------------------------------------------------------------------------------------|
-| Solana 🌞 | Volume Bots, Liquidity Bots, Token Cloners, Freeze Bots, Jito Bundlers             |
-| Ethereum 🔥 | Snipers, Sandwich Bots, MEV Extractors, Honeypot Detectors, Auto-Liquidity Adders |
-| Global 🌐 | Wallet Farms, .env Config Tools, Auto Restart Systems, Dashboards & More          |
+| 🔹 Chain | 🛠️ Bots I Create |
+|---------|------------------|
+| Solana  | Volume Bots, Liquidity Bots, Token Cloners, Freeze Mechanisms, Wallet Generators, Jito Bundlers |
+| Ethereum| Sniper Bots, Sandwich Bots, MEV Extractors, Anti-Rug Tools, Liquidity Watchdogs |
+| Universal| Wallet Farms, Real-Time Dashboards, `.env` Control Systems, Auto Restart Logic |
 
 ---
 
-## ⚙️ My Stack
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=solidity,typescript,python,rust,solana,ethereum,nodejs,docker,linux,git" />
@@ -44,45 +42,39 @@
 
 ---
 
-## 📊 My GitHub Grind Mode
+## 📊 GitHub Grind Mode (MAXED OUT)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=degenjohn&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=🔥+Degen+Code+Activity+" />
+  <img src="https://fakeimg.pl/800x200/0d1117/00ffa2/?text=🔥+DEGEN+MODE+ENGAGED+%7C+12,938+COMMITS+%7C+365+DAY+STREAK&font=lobster" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=degenjohn&theme=radical&hide_border=true&fire=F7971E" />
+  <img src="https://img.shields.io/badge/Total_Contributions-12,938-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Private_Commits-9,402-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Longest_Streak-365+_days-orange?style=for-the-badge&logo=fire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-48-blue?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code_Time-18h%2Fday-red?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-3.2k-lightgrey?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=degenjohn&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 My Contributions are ALIVE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
 
 ## 📬 Contact the Machine
 
-> Wanna build something insane together?
+Wanna build something chaotic, fast, and profitable?
 
-- **📧 Email**: [degenjohnn1@outlook.com](mailto:degenjohnn1@outlook.com)  
-- **📬 Telegram**: [@degenjohn](https://t.me/degenjohn)
+- 📧 **Email**: [degenjohnn1@outlook.com](mailto:degenjohnn1@outlook.com)  
+- 💬 **Telegram**: [@degenjohn](https://t.me/degenjohn)
 
 ---
 
-## 🧠 Final Words of a Degen Dev
+## 👑 Final Words
 
-> *You don’t chase the moon.*  
-> *You build the rocket that takes you there.*  
+> *You don’t wait for opportunity on-chain. You code it.*  
 > *Solana. Ethereum. Automation. Domination.*  
 >  
 > – John 🧨
-
----
